@@ -1,0 +1,160 @@
+﻿@page
+@model Projekt.Pages.BookModel
+@{
+    ViewData["Title"] = "Book a TTo";
+}
+
+<link href="https://fonts.googleapis.com/css2?family=Inknut+Antiqua&display=swap" rel="stylesheet">
+
+<style>
+    body {
+        text-align: center;
+        background: white;
+        color: black;
+        font-family: 'Inknut Antiqua', serif;
+    }
+
+    h1 {
+        font-size: 2.5em;
+        margin-bottom: 5px;
+        font-family: 'Inknut Antiqua', serif;
+    }
+
+    p, label {
+        font-size: 0.9em;
+        max-width: 500px;
+        margin: 0 auto 20px;
+        font-family: 'Inknut Antiqua', serif;
+    }
+
+    .image-upload {
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+        margin-bottom: 20px;
+    }
+
+    .upload-box {
+        width: 80px;
+        height: 80px;
+        border: 2px solid #555;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+        background: #333;
+        border-radius: 10px;
+        font-family: 'Inknut Antiqua', serif;
+    }
+
+        .upload-box img {
+            width: 24px;
+            height: 24px;
+        }
+
+    .form-container {
+        max-width: 600px;
+        margin: auto;
+    }
+
+    input[type="email"],
+    textarea {
+        width: 100%;
+        padding: 10px;
+        margin: 10px 0;
+        border: 2px solid #444;
+        border-radius: 5px;
+        font-size: 1em;
+        font-family: 'Inknut Antiqua', serif;
+        background: #333;
+        color: white;
+    }
+
+    textarea {
+        height: 200px;
+    }
+
+    button {
+        background: #444;
+        color: white;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        font-size: 1em;
+        cursor: pointer;
+        font-family: 'Inknut Antiqua', serif;
+    }
+
+    .art-left {
+        position: absolute;
+        bottom: 280px;
+        left: 150px;
+        width: 350px;
+        z-index: 5;
+    }
+
+    .art-right {
+        position: absolute;
+        top: 100px;
+        right: 155px;
+        width: 450px;
+        transform: scaleX(-1);
+        z-index: 5;
+    }
+
+    .title-image {
+        display: block;
+        margin: 0 auto 10px;
+        max-width: 25%;
+        height: auto;
+    }
+
+    .logo {
+        margin: 30px auto 60px;
+        display: block;
+        text-align: center;
+    }
+
+        .logo img {
+            max-width: 80px;
+        }
+</style>
+
+<img src="/images/BookaTTo.png" alt="BOOK a TTo" class="title-image" />
+<p>
+    Write down your ideas and wishes in the form below, and include 3 examples of the tattoos and styles you like.
+    Try to be as specific as possible so we can envision your creation together.
+</p>
+
+<form method="post" enctype="multipart/form-data" class="form-container">
+    <div class="image-upload">
+        <label class="upload-box">
+            <input type="file" name="Image1" accept="image/*" hidden>
+            <img src="/images/icons/image.png" alt="Upload" />
+        </label>
+        <label class="upload-box">
+            <input type="file" name="Image2" accept="image/*" hidden>
+            <img src="/images/icons/image.png" alt="Upload" />
+        </label>
+        <label class="upload-box">
+            <input type="file" name="Image3" accept="image/*" hidden>
+            <img src="/images/icons/image.png" alt="Upload" />
+        </label>
+    </div>
+
+    <label>Write your e-mail address here:</label>
+    <input type="email" name="Email" required />
+
+    <label>Creatively describe your wishes:</label>
+    <textarea name="Details"></textarea>
+
+    <br />
+    <button type="submit">SUBMIT</button>
+</form>
+
+<img src="/images/cat.png" alt="cat tattoo" class="art-left" />
+<img src="/images/dragon.png" alt="dragon tattoo" class="art-right" />
+
+<div class="logo">
+    <img src="/images/ds100.png" alt="DS 100 logo" />
+</div>
