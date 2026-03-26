@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\X\\Desktop\\SPLETNA_STOJILJKOVIC\\SpletnaStran_Stojiljkovic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4868A9B7-8DCD-451E-B899-26EC20DE7753}|Projekt\\Projekt.csproj|c:\\users\\x\\desktop\\spletna_stojiljkovic\\spletnastran_stojiljkovic\\projekt\\pages\\portfolio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4868A9B7-8DCD-451E-B899-26EC20DE7753}|Projekt\\Projekt.csproj|solutionrelative:projekt\\pages\\portfolio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4868A9B7-8DCD-451E-B899-26EC20DE7753}|Projekt\\Projekt.csproj|c:\\users\\x\\desktop\\spletna_stojiljkovic\\spletnastran_stojiljkovic\\projekt\\pages\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4868A9B7-8DCD-451E-B899-26EC20DE7753}|Projekt\\Projekt.csproj|solutionrelative:projekt\\pages\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4868A9B7-8DCD-451E-B899-26EC20DE7753}|Projekt\\Projekt.csproj|c:\\users\\x\\desktop\\spletna_stojiljkovic\\spletnastran_stojiljkovic\\projekt\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4868A9B7-8DCD-451E-B899-26EC20DE7753}|Projekt\\Projekt.csproj|solutionrelative:projekt\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4868A9B7-8DCD-451E-B899-26EC20DE7753}|Projekt\\Projekt.csproj|c:\\users\\x\\desktop\\spletna_stojiljkovic\\spletnastran_stojiljkovic\\projekt\\pages\\book.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4868A9B7-8DCD-451E-B899-26EC20DE7753}|Projekt\\Projekt.csproj|solutionrelative:projekt\\pages\\book.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4868A9B7-8DCD-451E-B899-26EC20DE7753}|Projekt\\Projekt.csproj|c:\\users\\x\\desktop\\spletna_stojiljkovic\\spletnastran_stojiljkovic\\projekt\\pages\\portfolio.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4868A9B7-8DCD-451E-B899-26EC20DE7753}|Projekt\\Projekt.csproj|solutionrelative:projekt\\pages\\portfolio.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4868A9B7-8DCD-451E-B899-26EC20DE7753}|Projekt\\Projekt.csproj|c:\\users\\x\\desktop\\spletna_stojiljkovic\\spletnastran_stojiljkovic\\projekt\\pages\\about.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4868A9B7-8DCD-451E-B899-26EC20DE7753}|Projekt\\Projekt.csproj|solutionrelative:projekt\\pages\\about.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4868A9B7-8DCD-451E-B899-26EC20DE7753}|Projekt\\Projekt.csproj|c:\\users\\x\\desktop\\spletna_stojiljkovic\\spletnastran_stojiljkovic\\projekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4868A9B7-8DCD-451E-B899-26EC20DE7753}|Projekt\\Projekt.csproj|solutionrelative:projekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4868A9B7-8DCD-451E-B899-26EC20DE7753}|Projekt\\Projekt.csproj|c:\\users\\x\\desktop\\spletna_stojiljkovic\\spletnastran_stojiljkovic\\projekt\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4868A9B7-8DCD-451E-B899-26EC20DE7753}|Projekt\\Projekt.csproj|solutionrelative:projekt\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4868A9B7-8DCD-451E-B899-26EC20DE7753}|Projekt\\Projekt.csproj|c:\\users\\x\\desktop\\spletna_stojiljkovic\\spletnastran_stojiljkovic\\projekt\\pages\\book.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4868A9B7-8DCD-451E-B899-26EC20DE7753}|Projekt\\Projekt.csproj|solutionrelative:projekt\\pages\\book.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\X\\Desktop\\SPLETNA_STOJILJKOVIC\\SpletnaStran_Stojiljkovic\\Projekt\\Program.cs",
+              "RelativeDocumentMoniker": "Projekt\\Program.cs",
+              "ToolTip": "C:\\Users\\X\\Desktop\\SPLETNA_STOJILJKOVIC\\SpletnaStran_Stojiljkovic\\Projekt\\Program.cs",
+              "RelativeToolTip": "Projekt\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T11:21:55.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "About.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\X\\Desktop\\SPLETNA_STOJILJKOVIC\\SpletnaStran_Stojiljkovic\\Projekt\\Pages\\About.cshtml.cs",
+              "RelativeDocumentMoniker": "Projekt\\Pages\\About.cshtml.cs",
+              "ToolTip": "C:\\Users\\X\\Desktop\\SPLETNA_STOJILJKOVIC\\SpletnaStran_Stojiljkovic\\Projekt\\Pages\\About.cshtml.cs",
+              "RelativeToolTip": "Projekt\\Pages\\About.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T11:30:10.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Portfolio.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\X\\Desktop\\SPLETNA_STOJILJKOVIC\\SpletnaStran_Stojiljkovic\\Projekt\\Pages\\Portfolio.cshtml.cs",
+              "RelativeDocumentMoniker": "Projekt\\Pages\\Portfolio.cshtml.cs",
+              "ToolTip": "C:\\Users\\X\\Desktop\\SPLETNA_STOJILJKOVIC\\SpletnaStran_Stojiljkovic\\Projekt\\Pages\\Portfolio.cshtml.cs",
+              "RelativeToolTip": "Projekt\\Pages\\Portfolio.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T11:12:47.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\X\\Desktop\\SPLETNA_STOJILJKOVIC\\SpletnaStran_Stojiljkovic\\Projekt\\Pages\\Book.cshtml.cs",
+              "RelativeDocumentMoniker": "Projekt\\Pages\\Book.cshtml.cs",
+              "ToolTip": "C:\\Users\\X\\Desktop\\SPLETNA_STOJILJKOVIC\\SpletnaStran_Stojiljkovic\\Projekt\\Pages\\Book.cshtml.cs",
+              "RelativeToolTip": "Projekt\\Pages\\Book.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T11:09:44.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\X\\Desktop\\SPLETNA_STOJILJKOVIC\\SpletnaStran_Stojiljkovic\\Projekt\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Projekt\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\X\\Desktop\\SPLETNA_STOJILJKOVIC\\SpletnaStran_Stojiljkovic\\Projekt\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Projekt\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T11:07:51.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\X\\Desktop\\SPLETNA_STOJILJKOVIC\\SpletnaStran_Stojiljkovic\\Projekt\\Pages\\About.cshtml",
+              "RelativeDocumentMoniker": "Projekt\\Pages\\About.cshtml",
+              "ToolTip": "C:\\Users\\X\\Desktop\\SPLETNA_STOJILJKOVIC\\SpletnaStran_Stojiljkovic\\Projekt\\Pages\\About.cshtml",
+              "RelativeToolTip": "Projekt\\Pages\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T11:07:23.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Portfolio.cshtml",
+              "DocumentMoniker": "C:\\Users\\X\\Desktop\\SPLETNA_STOJILJKOVIC\\SpletnaStran_Stojiljkovic\\Projekt\\Pages\\Portfolio.cshtml",
+              "RelativeDocumentMoniker": "Projekt\\Pages\\Portfolio.cshtml",
+              "ToolTip": "C:\\Users\\X\\Desktop\\SPLETNA_STOJILJKOVIC\\SpletnaStran_Stojiljkovic\\Projekt\\Pages\\Portfolio.cshtml",
+              "RelativeToolTip": "Projekt\\Pages\\Portfolio.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T11:07:06.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Book.cshtml",
+              "DocumentMoniker": "C:\\Users\\X\\Desktop\\SPLETNA_STOJILJKOVIC\\SpletnaStran_Stojiljkovic\\Projekt\\Pages\\Book.cshtml",
+              "RelativeDocumentMoniker": "Projekt\\Pages\\Book.cshtml",
+              "ToolTip": "C:\\Users\\X\\Desktop\\SPLETNA_STOJILJKOVIC\\SpletnaStran_Stojiljkovic\\Projekt\\Pages\\Book.cshtml",
+              "RelativeToolTip": "Projekt\\Pages\\Book.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAGEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T11:06:49.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\X\\Desktop\\SPLETNA_STOJILJKOVIC\\SpletnaStran_Stojiljkovic\\Projekt\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Projekt\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\X\\Desktop\\SPLETNA_STOJILJKOVIC\\SpletnaStran_Stojiljkovic\\Projekt\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Projekt\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAL4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T11:06:28.24Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
